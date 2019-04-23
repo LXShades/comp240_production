@@ -32,7 +32,7 @@ Rana is an action-adventure platformer for PC. You play as the titular Rana, a f
 Your goal is simple: you must return to your castle before dinnertime to defeat the evil **MEGA KITTEN**. Along the way, your precision frogging skills will be tested by the treacherous rivers, piranhas, grumpy bugs, ruthless cat minions... and more deadly hazards!
 
 ## Gallery
-[screenie5.png](![Rana crossing an unstable bridge](screenie5_tn.png))
+[![Rana crossing an unstable bridge](screenie5_tn.png)](screenie5.png)
 ![Rana swings to victory](screenie6_tn.png)
 ![Rana visits the Frog Village](screenie8_tn.png)
 ![Rana smashes crates for glowmoths](screenie7_tn.png)
