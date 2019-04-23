@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Rana: A Ribbiting Adventure promotional picture](640x360 Promo.png)
+
 # Rana: A Ribbiting Adventure
 [VIDEO GOES HERE?]
 
@@ -28,6 +30,21 @@ We pray for your victory, for if she is allowed to reign over your kingdom for l
 Rana is an action-adventure platformer for PC. You play as the titular Rana, a frog prince kicked out of his castle by an adorable, evil feline. With your talking sword buddy and highly versatile tongue, you will hop, swing, slash and crash your way through a beautiful fantasy environment.
 
 Your goal is simple: you must return to your castle before dinnertime to defeat the evil **MEGA KITTEN**. Along the way, your precision frogging skills will be tested by the treacherous rivers, piranhas, grumpy bugs, ruthless cat minions... and more deadly hazards!
+
+## Gallery
+![Screenshot of Rana](screenie1_tn.png)
+![Screenshot of Rana](screenie2_tn.png)
+![Screenshot of Rana](screenie3_tn.png)
+![Screenshot of Rana](screenie4_tn.png)
+![Screenshot of Rana](screenie5_tn.png)
+![Screenshot of Rana](screenie6_tn.png)
+![Screenshot of Rana](screenie7_tn.png)
+![Screenshot of Rana](screenie8_tn.png)
+![Screenshot of Rana](screenie9_tn.png)
+![Screenshot of Rana](screenie10_tn.png)
+![Screenshot of Rana](screenie11_tn.png)
+![Screenshot of Rana](screenie12_tn.png)
+![Screenshot of Rana](screenie13_tn.png)
 
 # Team
 ## Louis Foy
