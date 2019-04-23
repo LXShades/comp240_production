@@ -32,22 +32,25 @@ Rana is an action-adventure platformer for PC. You play as the titular Rana, a f
 Your goal is simple: you must return to your castle before dinnertime to defeat the evil **MEGA KITTEN**. Along the way, your precision frogging skills will be tested by the treacherous rivers, piranhas, grumpy bugs, ruthless cat minions... and more deadly hazards!
 
 ## Gallery
-![Screenshot of Rana](screenie1_tn.png)
-![Screenshot of Rana](screenie2_tn.png)
-![Screenshot of Rana](screenie3_tn.png)
-![Screenshot of Rana](screenie4_tn.png)
-![Screenshot of Rana](screenie5_tn.png)
-![Screenshot of Rana](screenie6_tn.png)
-![Screenshot of Rana](screenie7_tn.png)
-![Screenshot of Rana](screenie8_tn.png)
-![Screenshot of Rana](screenie9_tn.png)
-![Screenshot of Rana](screenie10_tn.png)
-![Screenshot of Rana](screenie11_tn.png)
-![Screenshot of Rana](screenie12_tn.png)
-![Screenshot of Rana](screenie13_tn.png)
+[screenie5.png](![Rana crossing an unstable bridge](screenie5_tn.png))
+![Rana swings to victory](screenie6_tn.png)
+![Rana visits the Frog Village](screenie8_tn.png)
+![Rana smashes crates for glowmoths](screenie7_tn.png)
+![Rana receives a grim diet warning](screenie9_tn.png)
+![Rana contemplates life in a cool breeze](screenie10_tn.png)
+![Rana springs between two rocks whilst falling rocks threaten him with a lot of pain](screenie11_tn.png)
+![Rana swings toward the castle](screenie12_tn.png)
 
 # Team
 ## Louis Foy
 Hello! My name is Louis and I'm a programmer on this project. My primary jobs included programming the core mechanics, many of the hazards and interactables, and silky smooth grass engine. In addition, I play a supportive role in the technological department, working diligently to ensure the game is on track and that every team member understands how to incorporate their work.
+
+In the first few sprints, I was also scrum master for the team, playing a pivotal role in establishing the direction of the game. This included:
+
+* Running brainstorming sessions
+* Determining the tasks required for each role
+* Organising stand-up times and sending reminders to the team
+
+After a few weeks, I stepped down from this position to instead focus on applying my programming skills, feeling that my assertive communication skills were not ready to address difficult team scenarios such as low attendance.
 
 Platformers are a specialty of mine. The influence of my favourite platformers on the game is no secret to the team. My inspirations enable me to deliver silky-smooth and responsive character controls and provide useful feedback and ideas to the team.
