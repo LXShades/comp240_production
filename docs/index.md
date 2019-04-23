@@ -32,14 +32,15 @@ Rana is an action-adventure platformer for PC. You play as the titular Rana, a f
 Your goal is simple: you must return to your castle before dinnertime to defeat the evil **MEGA KITTEN**. Along the way, your precision frogging skills will be tested by the treacherous rivers, piranhas, grumpy bugs, ruthless cat minions... and more deadly hazards!
 
 ## Gallery
+*Click an image to enlarge it!*
 [![Rana crossing an unstable bridge](screenie5_tn.png)](screenie5.png)
-![Rana swings to victory](screenie6_tn.png)
-![Rana visits the Frog Village](screenie8_tn.png)
-![Rana smashes crates for glowmoths](screenie7_tn.png)
-![Rana receives a grim diet warning](screenie9_tn.png)
-![Rana contemplates life in a cool breeze](screenie10_tn.png)
-![Rana springs between two rocks whilst falling rocks threaten him with a lot of pain](screenie11_tn.png)
-![Rana swings toward the castle](screenie12_tn.png)
+[![Rana swings to victory](screenie6_tn.png)](screenie6.png)
+[![Rana visits the Frog Village](screenie8_tn.png)](screenie8.png)
+[![Rana smashes crates for glowmoths](screenie7_tn.png)](screenie7.png)
+[![Rana receives a grim diet warning](screenie9_tn.png)](screenie9.png)
+[![Rana contemplates life in a cool breeze](screenie10_tn.png)](screenie10.png)
+[![Rana springs between two rocks whilst falling rocks threaten him with a lot of pain](screenie11_tn.png)](screenie11.png)
+[![Rana swings toward the castle](screenie12_tn.png)](screenie12.png)
 
 # Team
 ## Louis Foy
