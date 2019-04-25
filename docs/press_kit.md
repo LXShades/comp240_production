@@ -5,18 +5,10 @@ layout: default
 ![Rana: A Ribbiting Adventure promotional picture](640x360 Promo.png)
 
 # Rana: A Ribbiting Adventure
-[VIDEO GOES HERE?]
+## Trailer
+<iframe width="480" height="270" src="https://www.youtube.com/embed/D6ZuCgyyrjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Assignment requirements
-(b) The game is adequately described;
-
-(a) The press kit is available online;
-(b) The development team are introduced and credited for their work;
-(c) Key flavour text and unique selling points are included;
-(d) The aesthetic is illustrated with at least four screenshots;
-(e) The core game mechanics are illustrated with at least one video.
-
-## Overview
+## Story overview
 [a paper scroll background for this segment would be cool!]
 Awaken, young prince. What are you doing down here?
 
@@ -31,6 +23,13 @@ Rana is an action-adventure platformer for PC. You play as the titular Rana, a f
 
 Your goal is simple: you must return to your castle before dinnertime to defeat the evil **MEGA KITTEN**. Along the way, your precision frogging skills will be tested by the treacherous rivers, piranhas, grumpy bugs, ruthless cat minions... and more deadly hazards!
 
+Check out some of the mechanics in action! [VIDEO GOES HERE]
+
+## USPs
+* Using your versatile tongue, traverse the environments on new way with a free-flowing momentum-based swinging ability
+* Using the Sword's mysterious powers, chat with the **objects** of the world and find out what they have to say!
+* Using your feet, walk through some silky fine grass. It's really nice grass. The finest triangular grass known to games.
+
 ## Gallery
 *Click an image to enlarge it!*
 [![Rana crossing an unstable bridge](screenie5_tn.png)](screenie5.png)
@@ -42,13 +41,18 @@ Your goal is simple: you must return to your castle before dinnertime to defeat 
 [![Rana springs between two rocks whilst falling rocks threaten him with a lot of pain](screenie11_tn.png)](screenie11.png)
 [![Rana swings toward the castle](screenie12_tn.png)](screenie12.png)
 
-# Team (new)
-*Rana: A Ribbiting Adventure* is brought to you.
+# About CTRL+ALT+SQUID
+**CTRL+ALT+SQUID** is a university team based in Penryn, Cornwall. Working at our in-university studio, we're working hard to give you an exciting family-friendly platforming experience. We have been developing Rana with the [Unity Engine](https://unity.com) since November 2018, and are looking forward to delivering a complete and exciting 30-minute experience by **May 2019**.
 
-Coming May 2019!
+**Designer:** Thomas Heintz
+**Artists:** Samuel Curtis, Joe Gamble, Robert Gray, Jacob Gill-Donald, Charlie Rigby, Connlan Omeara
+**Programmers:** Louis Foy, Tomas Mazurkevic
+**Animator:** Emily Ward
+**Writer:** Charlie Prichard
 
-# Team (old)
-## Louis Foy
+Here's what our team members have to say about Rana...
+
+### Louis Foy
 Hello! My name is Louis and I'm a programmer on this project. My primary jobs included programming the core mechanics, many of the hazards and interactables, and silky smooth grass engine. In addition, I play a supportive role in the technological department, working diligently to ensure the game is on track and that every team member understands how to incorporate their work.
 
 In the first few sprints, I was also scrum master for the team, playing a pivotal role in establishing the direction of the game. This included:
@@ -57,6 +61,6 @@ In the first few sprints, I was also scrum master for the team, playing a pivota
 * Determining the tasks required for each role
 * Organising stand-up times and sending reminders to the team
 
-After a few weeks, I stepped down from this position to instead focus on applying my programming skills, feeling that my assertive communication skills were not ready to address difficult team scenarios such as low attendance.
+After a few weeks, I stepped down from this position to instead focus on applying my programming skills.
 
 Platformers are a specialty of mine. The influence of my favourite platformers on the game is no secret to the team. My inspirations enable me to deliver silky-smooth and responsive character controls and provide useful feedback and ideas to the team.
