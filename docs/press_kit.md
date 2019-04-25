@@ -44,15 +44,17 @@ Check out some of the mechanics in action! [VIDEO GOES HERE]
 # About CTRL+ALT+SQUID
 **CTRL+ALT+SQUID** is a university team based in Penryn, Cornwall. Working at our in-university studio, we're working hard to give you an exciting family-friendly platforming experience. We have been developing Rana with the [Unity Engine](https://unity.com) since November 2018, and are looking forward to delivering a complete and exciting 30-minute experience by **May 2019**.
 
-**Designer:** Thomas Heintz
-**Artists:** Samuel Curtis, Joe Gamble, Robert Gray, Jacob Gill-Donald, Charlie Rigby, Connlan Omeara
-**Programmers:** Louis Foy, Tomas Mazurkevic
-**Animator:** Emily Ward
-**Writer:** Charlie Prichard
+**Designer:** Thomas Heintz  
+**Artists:** Samuel Curtis, Joe Gamble, Robert Gray, Jacob Gill-Donald, Charlie Rigby, Connlan Omeara  
+**Programmers:** Louis Foy, Tomas Mazurkevic  
+**Animator:** Emily Ward  
+**Writer:** Charlie Prichard  
 
 Here's what our team members have to say about Rana...
 
-### Louis Foy
+[other team members go here]
+
+#### Louis Foy
 Hello! My name is Louis and I'm a programmer on this project. My primary jobs included programming the core mechanics, many of the hazards and interactables, and silky smooth grass engine. In addition, I play a supportive role in the technological department, working diligently to ensure the game is on track and that every team member understands how to incorporate their work.
 
 In the first few sprints, I was also scrum master for the team, playing a pivotal role in establishing the direction of the game. This included:
