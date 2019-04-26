@@ -31,7 +31,7 @@ Check out some of the mechanics in action! [VIDEO GOES HERE]
 
 ## Gallery
 *Click an image to enlarge it!*
-[![Rana crossing an unstable bridge](screenie5_tn.png =150x)](screenie5.png)
+[<img src="screenie5_tn.png" alt="Rana crossing an unstable bridge" width="200"/>](screenie5.png)
 [![Rana swings to victory](screenie6_tn.png =200x)](screenie6.png)
 [![Rana visits the Frog Village](screenie8_tn.png =250x)](screenie8.png)
 [![Rana smashes crates for glowmoths](screenie7_tn.png =300x)](screenie7.png)
