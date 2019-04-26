@@ -5,12 +5,10 @@ layout: default
 ![Rana: A Ribbiting Adventure promotional picture](640x360 Promo.png)
 
 # Rana: A Ribbiting Adventure
-## Trailer
 <iframe width="480" height="270" src="https://www.youtube.com/embed/D6ZuCgyyrjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *Trailer produced by Thomas Heintz*
 
 ## Story overview
-[a paper scroll background for this segment would be cool!]
 Awaken, young prince. What are you doing down here?
 
 Lo, your castle stands afar... for it seems the **MEGA KITTEN** got the better of you when she attacked your kingdom with her army of vicious cats. 
