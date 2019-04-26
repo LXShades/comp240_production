@@ -31,14 +31,16 @@ Check out some of the mechanics in action! [VIDEO GOES HERE]
 
 ## Gallery
 *Click an image to enlarge it!*
+
+
 [<img src="screenie5_tn.png" alt="Rana crossing an unstable bridge" width="200"/>](screenie5.png)
-[![Rana swings to victory](screenie6_tn.png =200x)](screenie6.png)
-[![Rana visits the Frog Village](screenie8_tn.png =250x)](screenie8.png)
-[![Rana smashes crates for glowmoths](screenie7_tn.png =300x)](screenie7.png)
-[![Rana receives a grim diet warning](screenie9_tn.png =350x)](screenie9.png)
-[![Rana contemplates life in a cool breeze](screenie10_tn.png)](screenie10.png)
-[![Rana springs between two rocks whilst falling rocks threaten him with a lot of pain](screenie11_tn.png)](screenie11.png)
-[![Rana swings toward the castle](screenie12_tn.png)](screenie12.png)
+[<img src="screenie6_tn.png" alt="Rana swings to victory" width="200"/>](screenie6.png)
+[<img src="screenie8_tn.png" alt="Rana visits the Frog Village" width="200"/>](screenie8.png)
+[<img src="screenie7_tn.png" alt="Rana smashes crates for glowmoths" width="200"/>](screenie7.png)
+[<img src="screenie9_tn.png" alt="Rana receives a grim warning" width="200"/>](screenie9.png)
+[<img src="screenie10_tn.png" alt="Rana contemplates life under a cool breeze" width="200"/>](screenie10.png)
+[<img src="screenie11_tn.png" alt="Rana springs between two rocks whilst falling rocks threaten him with a lot of pain" width="200"/>](screenie11.png)
+[<img src="screenie11_tn.png" alt="Rana swings toward the castle" width="200"/>](screenie12.png)
 
 # About CTRL+ALT+SQUID
 **CTRL+ALT+SQUID** is a university team based in Penryn, Cornwall. Working at our in-university studio, we're working hard to give you an exciting family-friendly platforming experience. We have been developing Rana with the [Unity Engine](https://unity.com) since November 2018, and are looking forward to delivering a complete and exciting 30-minute experience by **May 2019**.
