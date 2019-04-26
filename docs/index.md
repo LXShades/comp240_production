@@ -4,6 +4,7 @@ layout: default
 
 # Rana: A Ribbiting Adventure
 <iframe width="480" height="270" src="https://www.youtube.com/embed/D6ZuCgyyrjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Trailer produced by Thomas Heintz*
 
 ## Overview
 The great frog prince has been kicked out of his castle by the evil *MEGA KITTEN*! In this new action-platformer adventure, play as **Rana** and his talking sword buddy, **Sword**, as you swing, slash and crash through a beautiful frog-like environment.
