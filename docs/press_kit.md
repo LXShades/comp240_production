@@ -67,3 +67,8 @@ In the first few sprints, I was also scrum master for the team, playing a pivota
 After a few weeks, I stepped down from this position to instead focus on applying my programming skills.
 
 Platformers are a specialty of mine. The influence of my favourite platformers on the game is no secret to the team. My inspirations enable me to deliver silky-smooth and responsive character controls and provide useful feedback and ideas to the team.
+
+#### Tomas Mazurkevic
+Hello there, readers! I'm Tomas Mazurkevic, a programmer for this project. My main role was developing these dumb cats, as you could've seen from a short videos above. However, this was not the only job of mine. I was also helping fix small bugs and errors that were occuring all over the place throughout the development.
+
+2D platformers are one of my favourite type of games, however, working on a 3D platformer was an interesting and, of course, useful experience. My interest in artificial intelligence has been the core inspiration in developing this game. Although it has showed itself not in the best way I have gained a great amount of experience in this sphere and am ready to develop a properly smart AI!
