@@ -22,7 +22,14 @@ Rana is an action-adventure platformer for PC. You play as the titular Rana, a f
 
 Your goal is simple: you must return to your castle before dinnertime to defeat the evil **MEGA KITTEN**. Along the way, your precision frogging skills will be tested by the treacherous rivers, piranhas, grumpy bugs, ruthless cat minions... and more deadly hazards!
 
-Check out some of the mechanics in action! [VIDEO GOES HERE]
+Check out some of the mechanics in action!
+
+**Don't let the piranhas eat you alive!**
+<iframe src="https://drive.google.com/file/d/1AsP6fEZkhZHn2LWAGNlLSA7snZeU8Hmf/preview" width="640" height="480"></iframe>
+
+**Fun swinging mechanic**
+<iframe src="https://drive.google.com/file/d/1_rinwaOncKwffqe8xutEaDRrIFShViiI/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/186Q_mjTbaqDVI21cP-fdphZd5lcsdrnm/preview" width="640" height="480"></iframe>
 
 ## USPs
 * Using your versatile tongue, traverse the environments on new way with a free-flowing momentum-based swinging ability
@@ -42,6 +49,18 @@ Check out some of the mechanics in action! [VIDEO GOES HERE]
 [<img src="screenie11_tn.png" alt="Rana springs between two rocks whilst falling rocks threaten him with a lot of pain" width="200"/>](screenie11.png)
 [<img src="screenie12_tn.png" alt="Rana swings toward the castle" width="200"/>](screenie12.png)
 
+**The first meeting with Madelyn, the magnificent *chunky* cat**
+<iframe src="https://drive.google.com/file/d/1rE_FmK6Dnz93LpRedVnJ-CcCZ2NfcO6q/preview" width="640" height="480"></iframe>
+
+**Rana - The Ultra-Fast Speedy Boi**
+<iframe src="https://drive.google.com/file/d/1E0pLJ2cKg5ydc1cdWpKn1gMkaDRDmlrh/preview" width="640" height="480"></iframe>
+
+**Rana can also be an eye-popping glowfly eater!**
+<iframe src="https://drive.google.com/file/d/1EONc5iswbK-Glrx-9buv72L9WT38vLTV/preview" width="640" height="480"></iframe>
+
+**Spoilerler alert, there are also secrets in the game!**
+<iframe src="https://drive.google.com/file/d/1uawgSeiYOxb9edK5RwH_nuqwMwc7vXMg/preview" width="640" height="480"></iframe>
+
 # About CTRL+ALT+SQUID
 **CTRL+ALT+SQUID** is a university team based in Penryn, Cornwall. Working at our in-university studio, we're working hard to give you an exciting family-friendly platforming experience. We have been developing Rana with the [Unity Engine](https://unity.com) since November 2018, and are looking forward to delivering a complete and exciting 30-minute experience by **May 2019**.
 
@@ -52,8 +71,6 @@ Check out some of the mechanics in action! [VIDEO GOES HERE]
 **Writer:** Charlie Prichard  
 
 Here's what our team members have to say about Rana...
-
-[other team members go here]
 
 #### Louis Foy
 Hello! My name is Louis and I'm a programmer on this project. My primary jobs included programming the core mechanics, many of the hazards and interactables, and silky smooth grass engine. In addition, I play a supportive role in the technological department, working diligently to ensure the game is on track and that every team member understands how to incorporate their work.
