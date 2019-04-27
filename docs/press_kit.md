@@ -25,11 +25,11 @@ Your goal is simple: you must return to your castle before dinnertime to defeat 
 Check out some of the mechanics in action!
 
 **Don't let the piranhas eat you alive!**
-<video src="Piranhas.mp4" poster="640x360 Promo.png" width="320" height="200" controls preload></video>
+<video src="Piranhas.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
 
 **Fun swinging mechanic**
-<video src="Swinging.mp4" poster="640x360 Promo.png" width="320" height="200" controls preload></video>
-<video src="Swinging1.mp4" poster="640x360 Promo.png" width="320" height="200" controls preload></video>
+<video src="Swinging.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
+<video src="Swinging1.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
 
 ## USPs
 * Using your versatile tongue, traverse the environments on new way with a free-flowing momentum-based swinging ability
@@ -50,19 +50,19 @@ Check out some of the mechanics in action!
 [<img src="screenie12_tn.png" alt="Rana swings toward the castle" width="200"/>](screenie12.png)
 
 **The first meeting with Madelyn, the magnificent *chunky* cat**
-<video src="Boss_Outro.mp4" poster="640x360 Promo.png" width="320" height="200" controls preload></video>
+<video src="Boss_Outro.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
 
 **Rana - The Ultra-Fast Speedy Boi**
-<video src="Cogwheel.mp4" poster="640x360 Promo.png" width="320" height="200" controls preload></video>
+<video src="Cogwheel.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
 
 **Rana can also be an eye-popping glowfly eater!**
-<video src="FlyEater.mp4" poster="640x360 Promo.png" width="320" height="200" controls preload></video>
+<video src="FlyEater.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
 
 **Those silly-silly cats cannot get the Mighty Rana**
-<video src="SuperDumbCats.mp4" poster="640x360 Promo.png" width="320" height="200" controls preload></video>
+<video src="SuperDumbCats.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
 
 **Spoilerler alert, there are also secrets in the game!**
-<video src="SecretHat.mp4" poster="640x360 Promo.png" width="320" height="200" controls preload></video>
+<video src="SecretHat.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
 
 # About CTRL+ALT+SQUID
 **CTRL+ALT+SQUID** is a university team based in Penryn, Cornwall. Working at our in-university studio, we're working hard to give you an exciting family-friendly platforming experience. We have been developing Rana with the [Unity Engine](https://unity.com) since November 2018, and are looking forward to delivering a complete and exciting 30-minute experience by **May 2019**.
