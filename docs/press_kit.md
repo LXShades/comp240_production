@@ -5,7 +5,7 @@ layout: default
 ![Rana: A Ribbiting Adventure promotional picture](640x360 Promo.png)
 
 # Rana: A Ribbiting Adventure
-<iframe width="480" height="270" src="https://www.youtube.com/embed/D6ZuCgyyrjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="512" height="288" src="https://www.youtube.com/embed/D6ZuCgyyrjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *Trailer produced by Thomas Heintz*
 
 ## Story overview
@@ -22,15 +22,6 @@ Rana is an action-adventure platformer for PC. You play as the titular Rana, a f
 
 Your goal is simple: you must return to your castle before dinnertime to defeat the evil **MEGA KITTEN**. Along the way, your precision frogging skills will be tested by the treacherous rivers, piranhas, grumpy bugs, ruthless cat minions... and more deadly hazards!
 
-Check out some of the mechanics in action!
-
-**Don't let the piranhas eat you alive!**
-<video src="Piranhas.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
-
-**Fun swinging mechanic**
-<video src="Swinging.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
-<video src="Swinging1.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
-
 ## USPs
 * Using your versatile tongue, traverse the environments on new way with a free-flowing momentum-based swinging ability
 * Using the Sword's mysterious powers, chat with the **objects** of the world and find out what they have to say!
@@ -38,7 +29,6 @@ Check out some of the mechanics in action!
 
 ## Gallery
 *Click an image to enlarge it!*
-
 
 [<img src="screenie5_tn.png" alt="Rana crossing an unstable bridge" width="200"/>](screenie5.png)
 [<img src="screenie6_tn.png" alt="Rana swings to victory" width="200"/>](screenie6.png)
@@ -49,20 +39,28 @@ Check out some of the mechanics in action!
 [<img src="screenie11_tn.png" alt="Rana springs between two rocks whilst falling rocks threaten him with a lot of pain" width="200"/>](screenie11.png)
 [<img src="screenie12_tn.png" alt="Rana swings toward the castle" width="200"/>](screenie12.png)
 
+## Videos
+**Don't let the piranhas eat you alive!**
+<video src="Piranhas.mp4" poster="640x360 Promo.png" width="512" height="288" controls preload></video>
+
+**Fun swinging mechanic**
+<video src="Swinging.mp4" poster="640x360 Promo.png" width="512" height="288" controls preload></video>
+<video src="Swinging1.mp4" poster="640x360 Promo.png" width="512" height="288" controls preload></video>
+
 **The first meeting with Madelyn, the magnificent *chunky* cat**
-<video src="Boss_Outro.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
+<video src="Boss_Outro.mp4" poster="640x360 Promo.png" width="512" height="288" controls preload></video>
 
 **Rana - The Ultra-Fast Speedy Boi**
-<video src="Cogwheel.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
+<video src="Cogwheel.mp4" poster="640x360 Promo.png" width="512" height="288" controls preload></video>
 
 **Rana can also be an eye-popping glowfly eater!**
-<video src="FlyEater.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
+<video src="FlyEater.mp4" poster="640x360 Promo.png" width="512" height="288" controls preload></video>
 
 **Those silly-silly cats cannot get the Mighty Rana**
-<video src="SuperDumbCats.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
+<video src="SuperDumbCats.mp4" poster="640x360 Promo.png" width="512" height="288" controls preload></video>
 
 **Spoilerler alert, there are also secrets in the game!**
-<video src="SecretHat.mp4" poster="640x360 Promo.png" width="640" height="360" controls preload></video>
+<video src="SecretHat.mp4" poster="640x360 Promo.png" width="512" height="288" controls preload></video>
 
 # About CTRL+ALT+SQUID
 **CTRL+ALT+SQUID** is a university team based in Penryn, Cornwall. Working at our in-university studio, we're working hard to give you an exciting family-friendly platforming experience. We have been developing Rana with the [Unity Engine](https://unity.com) since November 2018, and are looking forward to delivering a complete and exciting 30-minute experience by **May 2019**.
