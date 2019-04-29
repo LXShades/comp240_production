@@ -11,7 +11,7 @@ The great frog prince has been kicked out of his castle by the evil *MEGA KITTEN
 
 Now hurry back to your castle, so you can give the *MEGA KITTEN* a taste of her own medicine before she eats everyone!
 
-* Rana is an adventure-platformer by CTRL+ALT+SQUID. For more information, check out our new [press kit](press_kit.md)!
+* Rana is an adventure-platformer by CTRL+ALT+SQUID. For more information, check out our new [press kit](press_kit.html)!
 
 ## Features
 * **Run and hop** around a beautiful environment in a polished modern platformer!
@@ -29,4 +29,4 @@ Now hurry back to your castle, so you can give the *MEGA KITTEN* a taste of her 
 *Rana: A Ribbiting Adventure* is created and developed by CTRL+ALT+SQUID, a new Cornwall-based studio and the same team who brought you *Rana: A Ribbiting Aventure*.
 
 ## Additional Links
-> **Press kit**
+> [**Press kit**](press_kit.html)
